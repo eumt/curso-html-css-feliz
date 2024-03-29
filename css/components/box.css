@@ -1,0 +1,9 @@
+#box {
+    background-image:linear-gradient(
+     180deg, #dcdcdc 0%, rgb(206, 206, 206, 0) 100%);
+     width: 650px;
+    padding: 20px 50px;
+    box-shadow: 4px 4px 0 #042189;
+   }
+    
+   

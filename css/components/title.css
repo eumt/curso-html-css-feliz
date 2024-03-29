@@ -1,5 +1,7 @@
-h1 { font-family: Press Start 2P , sans-serif;
-    font-size: 40px;
+h1 { font-family: 'Bebas Neue';
+    font-size: 65px;
    color:#042189;
-   text-shadow: 2px 2px 0px #000;
+   text-shadow: 4px 4px 0 #ffffff;
+   text-align: left;
+   
 }
