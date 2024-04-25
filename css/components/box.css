@@ -1,9 +1,12 @@
-#box {
-    background-image:linear-gradient(
-     180deg, #cdcdcd 0%, rgb(206, 206, 206, 0) 100%);
-     display: inline-block;
-     padding: 0px 40px ;
-    
-   }
-    
-   
+.box {
+   background-image:linear-gradient(
+   180deg, #cdcdcd 0%, rgb(206, 206, 206, 0) 100%);
+   display: inline-block;
+   padding: 0px 40px ;
+  
+ }
+
+.box .title{
+   margin-bottom: 28px;
+
+  }

@@ -1,9 +1,9 @@
-h2 {
-font-size: 35px;
-font-family: 'Oswald';
-text-shadow: 4px 4px 0 #042189;
-color: #FFF;
-text-align: right;
-padding-bottom: 20px;
-padding-right: 10px;
-}
+.subtitle {
+    font-size: 35px;
+    font-family: 'Oswald';
+    text-shadow: 4px 4px 0 #042189;
+    color: #FFF;
+    text-align: right;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    }
